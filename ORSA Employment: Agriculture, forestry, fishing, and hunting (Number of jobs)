@@ -1,6 +1,3 @@
-SAOEMP Outdoor recreation satellite account employment 1/
-SAOEMP Outdoor recreation satellite account employment 1/
-State or DC
 GeoFips,GeoName,2021
 01000,Alabama,931
 02000,Alaska,141
@@ -53,9 +50,3 @@ GeoFips,GeoName,2021
 54000,West Virginia,227
 55000,Wisconsin,1364
 56000,Wyoming,323
-
-Legend/Footnotes
-"1/ State Outdoor Recreation Satellite Account (ORSA) statistics isolate the economic activity associated with outdoor recreation spending and production in a state's economy. The state-level statistics are an extension of the national industry ORSA statistics. The concepts, definitions, and methodology used to produce state-level statistics are consistent with the national industry concepts, definitions, and methodology."
-(D) Not shown to avoid disclosure of confidential information; estimates are included in higher-level totals.
-Note. Estimates may not add to totals due to rounding.
-"  Last updated: November 9, 2022-- new statistics for 2021; revised statistics for 2017-2020."
